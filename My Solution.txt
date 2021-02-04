@@ -1,0 +1,19 @@
+Solution:
+
+(1) Load Dataset
+
+(2) EDA & Data Preprocessing
+    None value
+    Missing value
+    Imbalanced data
+    Numerical value conversion
+
+(3) Feature Engineering
+    Correlation
+
+(4) Build Model & Model Validation
+    Random Forest
+    GBDT
+    KNN
+
+(5) Result Analysis
